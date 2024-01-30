@@ -18,7 +18,8 @@ Chat requests do not result in edits to the document. They allow you to discuss 
 Chat messages are also passed to the AI along with the current document, selected references, and full chat history 
 
 ## AI Context
-![image](https://github.com/mynt-ai/mynt/assets/9841960/0de0c46f-de8b-4d8b-b8a4-201741726cb6)
+
+![ai context](https://github.com/mynt-ai/Mynt/assets/9841960/f8e79065-86b0-4b4b-ad0c-9079eafba9b9)
 
 References can be added by clicking the 'AI Context' button above the chat panel. You can write, copy and paste or import text into a reference item which can then be added to or removed from the chat when required.
 
@@ -26,13 +27,13 @@ Clicking a reference toggles whether or not it is included in the AIs context wi
 
 ## Document Editor
 
-![image](https://github.com/mynt-ai/mynt/assets/9841960/1407f24c-27aa-4f20-b0e7-915df96c0b48)
+![toolbar](https://github.com/mynt-ai/Mynt/assets/9841960/44494715-6f52-4a70-a8ad-3adeb15de387)
 
 Manual edits are supported in the righthand document editor pane using the toolbar and document interface. Any changes applied to the document will be included in the AIs context window for the next messsage. 
 
 ## Importing, Saving & Exporting
 
-![image](https://github.com/mynt-ai/mynt/assets/9841960/79b881e2-7a9d-4a9b-b59e-2fcdb46e6763)
+![file-buttons](https://github.com/mynt-ai/Mynt/assets/9841960/81621f5f-8005-44bd-a3a9-476c47597b80)
 
 
 ### Importing  
