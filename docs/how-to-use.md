@@ -1,14 +1,17 @@
 # [Mynt](https://app.usemynt.com)
 
-![image](https://github.com/mynt-ai/mynt/assets/9841960/eef91e25-7b91-4666-b2d2-3f458f66cbb2)
+![fullwindow](https://github.com/mynt-ai/Mynt/assets/9841960/82d9edd3-57e8-45d2-a0eb-00f47b2e2231)
 
-## AI Edits ![image](https://github.com/mynt-ai/mynt/assets/9841960/a3e7fbd8-462b-49de-ba3c-73f9fbc9ee4b)
+
+## AI Edits ![edits](https://github.com/mynt-ai/Mynt/assets/9841960/3bf7ac7a-ad14-4849-8248-17544badf1fd)
+
 
 Edit messages are interpreted as a request to alter the content, and will result in an alteration of the current document. Changes can be undone and redone using the arrow icons or ctrl-z and ctrl-y. 
 
 Edit messages are passed to the AI along with the current document, selected references, and full chat history 
 
-## AI Chat  ![image](https://github.com/mynt-ai/mynt/assets/9841960/ea49d15b-4e88-4889-b034-a0691a65e3eb)
+## AI Chat  ![chat](https://github.com/mynt-ai/Mynt/assets/9841960/53550972-ce7a-4c48-8d52-ec07fd137a24)
+
 
 Chat requests do not result in edits to the document. They allow you to discuss your work with the AI. The chat history will be included in the context for following edits. 
 
