@@ -1,6 +1,6 @@
 # [Mynt](https://app.usemynt.com) - AI Driven Writing
 
-[![Discord Follow](https://dcbadge.vercel.app/api/server/8tcDQ89Ej2?style=flat)](https://discord.gg/fERtTz4qEs)
+[![Discord Follow](https://dcbadge.vercel.app/api/server/fERtTz4qEs?style=flat)](https://discord.gg/fERtTz4qEs)
 
 This repository is a platform to report issues and provide feedback for [Mynt](https://app.usemynt.com) and does not contain the source code ([yet](#future-plans---open-sourcing-mynt)).
 
